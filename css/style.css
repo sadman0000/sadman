@@ -1,0 +1,287 @@
+/* font-family: 'Playfair Display', serif; */
+/* font-family: 'Ubuntu', sans-serif; */
+*{
+
+    margin: 0;
+    padding: 0;
+}
+h1,p,li{
+    font-family: 'Playfair Display', serif;
+
+}
+h3{
+    font-family: 'Ubuntu', sans-serif;
+}
+header{
+
+overflow: hidden;
+
+width: 90%;
+margin: auto;
+margin-top: 30px;
+
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+
+}
+nav{
+    width: 50%;
+    float: right;
+}
+nav ul{
+    float: right;
+    list-style: none;
+    overflow: hidden;
+    
+}
+nav ul li{
+    margin-left: 30px;
+     
+     
+float: left;
+     
+
+}
+nav ul li a{
+font-family: 'Playfair Display', serif;     
+text-decoration: none;
+text-transform: uppercase;
+color: #626262;
+    
+}
+.banner{
+    width: 90%;
+    margin: auto;
+
+} 
+.banner img{
+    width: 100%;
+    margin-top: 40px;
+}
+.Photodairy{
+    width: 80%;
+    margin: 40px auto;
+    overflow: hidden;
+   
+
+}
+.Photodairy h3{
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+    color: #b4ad9e;
+    font-size: px;
+    font-weight: 400;
+   margin-bottom: 20px;
+    
+}
+.Photodairy h1{
+    font-family: 'Playfair Display', serif; 
+    font-size: 30px;
+    margin: 30px 0;
+    color: #626262;
+}
+.Photodairy p{
+
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+.lifestyle{
+overflow: hidden;
+width: 80%;
+
+margin: 103px auto;
+}
+.lifestyle_one{
+    float: left;
+    width: 47%;
+
+}
+.lifestyle_one  img{
+    width: 100%;
+    
+}
+.lifestyle_one  h3{
+font-family: 'Ubuntu', sans-serif;
+margin: 40px 0;
+    
+font-weight: 400;
+    
+color: #b4ad9e;
+}
+.lifestyle_one  h1{
+font-family: 'Playfair Display', serif; 
+margin: 30px 0;
+    
+font-size: 30px;
+    
+color: #626262;
+}
+.lifestyle_one  p{
+    
+font-size: 20px;
+}
+.lifestyle_two{
+    float: right;
+    width: 47%;
+
+}
+.lifestyle_two  img{
+    width: 100%;
+    
+}
+.lifestyle_two  h3{
+    font-family: 'Ubuntu', sans-serif;
+margin: 40px 0;
+    
+font-weight: 400;
+    
+color: #b4ad9e;
+    
+}
+.lifestyle_two h1{
+    font-family: 'Playfair Display', serif; 
+margin: 30px 0;
+    
+font-size: 30px;
+    
+color: #626262;
+    
+}
+.lifestyle_two  p{
+    font-size: 20px;
+    
+}
+.newsletter{
+    background-color: #f0f0f0;
+    padding: 50px 0;
+    
+    
+
+}
+.newsletter{
+
+background-color: #f0f0f0;
+
+width: 100%;
+
+
+}
+.signup{
+    width: 28%;
+    margin: auto;
+    position: relative;
+}
+.signup img{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.signup h1{
+    
+font-size: 37px;
+    
+font-weight: 400;
+    
+margin-bottom: 40px;
+    
+color: #626262;
+} 
+.signup input{
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid #333;
+    color: #626262;
+    width: 100%;
+    padding: 10px 0;
+} 
+.signup input:focus{
+    outline: none;
+}
+.loadmore{
+
+padding: 80px 0;
+
+text-align: center;
+}
+.loadmore button{
+       
+padding: 20px 30px;
+    
+font-size: 20px;
+    
+font-weight: 500;
+    
+background-color: transparent;
+    
+border: 1px solid #626262;
+cursor: pointer;
+}
+footer{
+    background-color: #f0f0f0;
+    padding: 20px 0;
+}
+.footer_content{
+    
+width: 80%;
+    
+margin: 20px auto;
+    
+
+    
+overflow: hidden;
+}
+.term{
+
+
+
+width: 30%;
+
+float: left;
+}
+.term ul{
+    
+list-style: none;
+    
+
+}
+.term ul li{
+    
+float: left;
+    
+margin-right: 30px;
+}
+.term ul li a{
+    
+text-decoration: none;
+    
+}
+.social_icon{
+    
+width: 30%;
+    
+float: right;
+    
+
+}
+.social_icon ul{
+    
+list-style: none;
+    
+float: right;
+}
+.social_icon ul li{
+    
+float: left;
+    
+margin-left: 30px;
+}
+.social_icon ul li a{
+    
+}
+
